@@ -1,0 +1,37 @@
+HBC Balance Sheet;;;;;;;;;;;;
+;;;;;;;;;;;;
+Transactions;;;;;;;;;;;;
+;;;;;;;;;;;;
+BIN:;123456;;Date:;21.11.2016;;;;;;;;
+Account Number:;654321;;Time:;11:38:55;;;;;;;;
+;;;Name:;John Doe;;;;;;;;
+;;;;;;;;;;;;
+Period:;1 month;;;;;;;;;;;
+;;; ;; ;;;;;;;
+Sort by date;;;;;;;;;;;;
+;;;;;;;;;;;;
+Date;Valuta;Issuer;Recipient;Account Number;IBAN;BIN;BIC;Process;Reference;Currency;Amount;Debit/Credit
+01.10.2016;02.10.2016;ISSUER;Toy r Us;;US123456;;654321;Transaction;;USD;5;S
+01.10.2016;02.10.2016;ISSUER;Amazon;;US123457;;654321;Transaction;;USD;4,48;S
+03.10.2016;04.10.2016;ISSUER;General Electric;;US123458;;654321;Transaction;;USD;6,96;S
+04.10.2016;05.10.2016;ISSUER;Mc Don;;US123459;;654321;Transaction;;USD;4,15;S
+04.10.2016;05.10.2016;ISSUER;Wal Mart;;US123460;;654321;Transaction;;USD;8,17;S
+04.10.2016;05.10.2016;ISSUER;Walgreens;;US123461;;654321;Transaction;;USD;20;S
+07.10.2016;08.10.2016;ISSUER;Toy r Us;;US123462;;654321;Transaction;;USD;19,64;S
+08.10.2016;09.10.2016;ISSUER;Toy r Us;;US123463;;654321;Transaction;;USD;15,4;S
+09.10.2016;10.10.2016;ISSUER;Wal Mart;;US123464;;654321;Transaction;;USD;1;S
+10.10.2016;11.10.2016;ISSUER;Wal Mart;;US123465;;654321;Transaction;;USD;32;S
+12.10.2016;13.10.2016;ISSUER;Wal Mart;;US123466;;654321;Transaction;;USD;50;S
+12.10.2016;13.10.2016;ISSUER;Amazon;;US123467;;654321;Transaction;;USD;15;S
+12.10.2016;13.10.2016;ISSUER;Amazon;;US123468;;654321;Transaction;;USD;50;S
+14.10.2016;15.10.2016;Mc Don;JohnDoe;;US123469;;654321;Transaction;Paycheque;USD;350;H
+15.10.2016;16.10.2016;ISSUER;Walgreens;;US123470;;654321;Transaction;;USD;3,01;S
+16.10.2016;17.10.2016;ISSUER;Walgreens;;US123471;;654321;Transaction;;USD;15,36;S
+17.10.2016;18.10.2016;ISSUER;Toy r Us;;US123472;;654321;Transaction;;USD;9,51;S
+18.10.2016;19.10.2016;ISSUER;Gas;;US123473;;654321;Transaction;;USD;13,74;S
+19.10.2016;20.10.2016;ISSUER;inSecure;;US123474;;654321;Transaction;;USD;5;S
+20.10.2016;21.10.2016;ISSUER;Wheels;;US123475;;654321;Transaction;;USD;5,00;S
+20.10.2016;21.10.2016;ISSUER;Monthly Rent;;US123476;;654321;Transaction;;USD;6,92;S
+;;;;;;;;;;;;
+01.10.2016;;;;;;;;;Begin;USD;10,00;H
+31.10.2016;;;;;;;;;End;USD;59,66;H;;;;;;;;;;;;
